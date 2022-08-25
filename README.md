@@ -17,7 +17,7 @@
 
 ## 🔨 Carregar o Projeto:
 ```
-git clone
+git clone https://github.com/MFBraga/irpf-calc-api.git
 ```
 
 &nbsp;
@@ -38,7 +38,7 @@ mvn spring-boot:run
 
 | Parâmetro                |  Contexto  |
 | :----------------------: | :--------: |
-| ano de referência        | URL        |
+| Ano de referência        | URL        |
 | Salário Bruto            | BODY       |
 | Número de Dependentes    | BODY       |
 
